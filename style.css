@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+    font-display: block;
+    font-family: fantasy;
+    font-weight: bold;
+}
